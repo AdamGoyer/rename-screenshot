@@ -19,7 +19,7 @@
   "description": "",
   "devDependencies": {
     "@types/async": "^3.2.24",
-    "@types/node": "^20.14.12",
+    "@types/node": "^24.0.7",
     "tsup": "^8.2.3",
     "typescript": "^5.5.4"
   },
