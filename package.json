@@ -18,13 +18,13 @@
   "author": "Daeinc",
   "description": "",
   "devDependencies": {
-    "@types/async": "^3.2.24",
+    "@types/async": "^3.2.25",
     "@types/node": "^20.14.12",
-    "tsup": "^8.2.3",
-    "typescript": "^5.5.4"
+    "tsup": "^8.5.1",
+    "typescript": "^5.9.3"
   },
   "dependencies": {
-    "async": "^3.2.5",
+    "async": "^3.2.6",
     "chokidar": "^3.6.0",
     "commander": "^12.1.0",
     "dotenv": "^16.4.5",
